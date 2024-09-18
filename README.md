@@ -11,7 +11,7 @@ This project provides a PHP class for integrating with the eBay API to retrieve 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/zaugol/ebay-api-integration.git
+   git clone https://github.com/zaugol/EbayApiTest.git
    ```
 
 2. Install dependencies:
